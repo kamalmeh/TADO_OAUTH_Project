@@ -1,0 +1,12 @@
+{
+	"client_id" : "public-api-preview",
+        "client_secret" : "4HJGRffVR8xb3XdEUQpjgZ1VplJi6XgwR",
+        "username" : "tadoapi@nurfuerspam.de",
+        "password" : "true2019",
+        "scope" : "home.user",
+        "auth_url" : "https://auth.tado.com/oauth/token",
+        "me_url" : "https://my.tado.com/api/v2/me",
+        "query_url" : "https://my.tado.com/api/v2/homes",
+        "tokenFile" : "/tmp/tadotoken",
+	"expires_in": "599"
+}
